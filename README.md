@@ -1,4 +1,4 @@
 # FicheLogement
-Mis en place formulaire
-Manuipulation de formulaire
-jQuery
+
+- Mise en place formulaire
+- Manuipulation de formulaire avec jQuery
